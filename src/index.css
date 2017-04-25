@@ -1,0 +1,17 @@
+.board{
+    width: 300px;
+    height: 300px;
+    margin: 30px  auto 0 auto;
+
+}
+
+.square{
+    width:100px;
+    height:100px;
+    vertical-align: bottom;
+    /*vertical-align: top;*/
+}
+
+.winner{
+    display: block;
+}
